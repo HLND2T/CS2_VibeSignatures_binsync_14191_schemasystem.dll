@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:12:04.156529Z
+addr = 0xf7d0
+size = 0x3ca
+name = "CSchemaSystem_LoadSchemaDataForModules"
+type = "long long"
+
+[header]
+name = "CSchemaSystem_LoadSchemaDataForModules"
+addr = 0xf7d0
+type = "long long"
+
+[header.args]

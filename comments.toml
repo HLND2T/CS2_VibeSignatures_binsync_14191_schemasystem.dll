@@ -1,0 +1,41 @@
+[0x4ba2]
+last_change = 2026-10-20T15:12:04.257082Z
+addr = 0x4ba2
+func_addr = 0x48f0
+comment = "lpDialogFunc"
+decompiled = false
+
+[0x4ba9]
+last_change = 2026-10-20T15:12:04.257094Z
+addr = 0x4ba9
+func_addr = 0x48f0
+comment = "dwInitParam"
+decompiled = false
+
+[0x4bae]
+last_change = 2026-10-20T15:12:04.257099Z
+addr = 0x4bae
+func_addr = 0x48f0
+comment = "hInstance"
+decompiled = false
+
+[0x4bb1]
+last_change = 2026-10-20T15:12:04.257102Z
+addr = 0x4bb1
+func_addr = 0x48f0
+comment = "hWndParent"
+decompiled = false
+
+[0x4bb4]
+last_change = 2026-10-20T15:12:04.257105Z
+addr = 0x4bb4
+func_addr = 0x48f0
+comment = "lpTemplateName"
+decompiled = false
+
+[0xf7bb]
+last_change = 2026-10-20T15:12:04.258219Z
+addr = 0xf7bb
+func_addr = 0xf770
+comment = "Trap to Debugger"
+decompiled = false

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:12:04.156543Z
+addr = 0x2b5b0
+size = 0x66
+name = "CSchemaType_SpewDescription"
+type = "long long"
+
+[header]
+name = "CSchemaType_SpewDescription"
+addr = 0x2b5b0
+type = "long long"
+
+[header.args]

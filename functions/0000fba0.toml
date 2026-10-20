@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:12:04.156531Z
+addr = 0xfba0
+size = 0xc1
+name = "CSchemaSystem_GetClassModuleName"
+type = "const char *"
+
+[header]
+name = "CSchemaSystem_GetClassModuleName"
+addr = 0xfba0
+type = "const char *"
+
+[header.args]

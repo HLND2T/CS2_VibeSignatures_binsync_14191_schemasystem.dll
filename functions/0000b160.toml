@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:12:04.156520Z
+addr = 0xb160
+size = 0x27c
+name = "CSchemaSystem_PrintSchemaStats"
+type = "long long"
+
+[header]
+name = "CSchemaSystem_PrintSchemaStats"
+addr = 0xb160
+type = "long long"
+
+[header.args]

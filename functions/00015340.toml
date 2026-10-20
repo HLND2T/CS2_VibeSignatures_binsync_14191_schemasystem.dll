@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:12:04.156536Z
+addr = 0x15340
+size = 0x55
+name = "CSchemaSystem_CompleteModuleRegistration"
+type = "long long"
+
+[header]
+name = "CSchemaSystem_CompleteModuleRegistration"
+addr = 0x15340
+type = "long long"
+
+[header.args]

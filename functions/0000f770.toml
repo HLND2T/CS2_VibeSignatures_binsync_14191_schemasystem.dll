@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:12:04.258219Z
+addr = 0xf770
+size = 0x57
+name = "CSchemaSystem_ValidateClasses"
+type = "long long"
+
+[header]
+name = "CSchemaSystem_ValidateClasses"
+addr = 0xf770
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:12:04.156525Z
+addr = 0xf6c0
+size = 0xab
+name = "CSchemaSystem_RegisterClasses"
+type = "long long"
+
+[header]
+name = "CSchemaSystem_RegisterClasses"
+addr = 0xf6c0
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:12:04.156541Z
+addr = 0x2a8f0
+size = 0x9a
+name = "CSchemaType_ToString"
+type = "void *"
+
+[header]
+name = "CSchemaType_ToString"
+addr = 0x2a8f0
+type = "void *"
+
+[header.args]

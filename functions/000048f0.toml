@@ -1,0 +1,12 @@
+last_change = 2026-10-20T15:12:04.257105Z
+addr = 0x48f0
+size = 0x65d
+name = "CSchemaSystem_SchemaSystemIsReady"
+type = "void"
+
+[header]
+name = "CSchemaSystem_SchemaSystemIsReady"
+addr = 0x48f0
+type = "void"
+
+[header.args]
